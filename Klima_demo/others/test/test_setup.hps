@@ -1,0 +1,19 @@
+PINEHBV SETUP FILE - VERSION5 : Wed Jul 24 11:02:51 2024
+
+Catchment and data files for TEST_SETUP-forecast setup.
+
+====================================================
+FORMATTED FILE ! ---  DO NOT EDIT !!!!
+====================================================
+
+
+Catchment: test
+                 D:\Klima\others\test\test_paramfile_par.top
+                 D:\Klima\others\test\test_input_dat.dat
+                 D:\Klima\others\test\test_output_out.dat
+                 D:\Klima\others\test\test_output_out.txt
+                 D:\Klima\others\test\test_endfile_end.top
+                 24.07.2024  11:02:51
+                 -
+                 -
+END

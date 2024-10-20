@@ -1,0 +1,30 @@
+Merge "mesh.msh";
+
+stepI = 100;
+maxI = 7;
+
+For I In {0:maxI}
+  Merge Sprintf("output/sol_field0_%g.msh", stepI*I);
+EndFor
+
+// Options de visualisation
+
+General.Clip0A = 0;
+General.Clip0B = 0;
+General.Clip0C = -1;
+General.Clip0D = 0;
+General.ClipOnlyVolume = 1;
+View.Clip = 1;
+Mesh.Clip = 1;
+
+// Options pour regarder les 'iso-valeurs'
+
+View.IntervalsType = 1;
+View.AdaptVisualizationGrid = 1;
+View.MaxRecursionLevel = 4;
+View.TargetError = 0.0002;
+
+// Plus joli ...
+
+Mesh.Tetrahedra = 0;
+View.LightTwoSide = 1;

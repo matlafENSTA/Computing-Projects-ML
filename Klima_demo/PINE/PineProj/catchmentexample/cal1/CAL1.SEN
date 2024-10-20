@@ -1,0 +1,253 @@
+                        PARAMETER SENSITIVITIES: CASE CAL1
+
+
+ OPTIMISATION ITERATION NO.  1 ----->
+ Parameter name    Group          Current value       Sensitivity
+   rcor            pcor            0.939000             1271.15    
+   scor            pcor            0.860000             282.761    
+   tx              tx               5.49500             495.321    
+   cx              cx               3.58400             256.320    
+   cxn_dcx         dwn_d           0.666600             0.00000    
+   ts              ts               3.08900             285.969    
+   tsn             ts               3.09000             1.00000    
+   fc              fc               26.8000             23.0335    
+   fcdel           fcdel            1.00000             61.5539    
+   beta            beta             1.57500             31.0486    
+   klz             k0              4.300000E-02         101.226    
+   kuz2_d1         up_d             2.14500             16.5579    
+   kuz1_d0         up_d             3.52080             13.1917    
+   kuz_dl          up_d             2.23260             19.5531    
+   perc            perc             1.96000             16.6731    
+   uz1             trsh             21.5000             120.395    
+   uz2_d1          up_d             1.88560             26.8523    
+
+
+ OPTIMISATION ITERATION NO.  2 ----->
+ Parameter name    Group          Current value       Sensitivity
+   rcor            pcor            0.920744             1238.22    
+   scor            pcor            0.859385             290.618    
+   tx              tx               5.39600             481.030    
+   cx              cx               3.78235             231.827    
+   cxn_dcx         dwn_d           0.666600             0.00000    
+   ts              ts               3.13835             293.367    
+   tsn             ts               3.09440             1.00000    
+   fc              fc               40.2000             23.8695    
+   fcdel           fcdel            1.00000             65.8747    
+   beta            beta             1.76302             33.5025    
+   klz             k0              4.501903E-02         100.640    
+   kuz2_d1         up_d             2.12526             15.2397    
+   kuz1_d0         up_d             3.55538             12.8386    
+   kuz_dl          up_d             2.11875             20.5042    
+   perc            perc             1.96753             15.9304    
+   uz1             trsh             19.8694             111.511    
+   uz2_d1          up_d             2.08328             22.9782    
+
+
+ OPTIMISATION ITERATION NO.  3 ----->
+ Parameter name    Group          Current value       Sensitivity
+   rcor            pcor            0.916705             1221.27    
+   scor            pcor            0.838692             249.860    
+   tx              tx               5.25513             403.161    
+   cx              cx               3.87057             158.279    
+   cxn_dcx         dwn_d           0.666600            9.613759E-17
+   ts              ts               3.19422             248.802    
+   tsn             ts               3.10799             1.00000    
+   fc              fc               60.3000             25.1482    
+   fcdel           fcdel            1.00000             70.6679    
+   beta            beta             1.73797             39.0889    
+   klz             k0              5.011014E-02         102.680    
+   kuz2_d1         up_d             2.10310             14.6008    
+   kuz1_d0         up_d             3.53253             13.1439    
+   kuz_dl          up_d             1.94895             22.7790    
+   perc            perc             1.90067             15.1871    
+   uz1             trsh             18.9351             108.311    
+   uz2_d1          up_d             2.23343             20.8647    
+
+
+ OPTIMISATION ITERATION NO.  4 ----->
+ Parameter name    Group          Current value       Sensitivity
+   rcor            pcor            0.916705             1221.27    
+   scor            pcor            0.838692             249.860    
+   tx              tx               5.25513             403.161    
+   cx              cx               3.87057             158.279    
+   cxn_dcx         dwn_d           0.999900            3.723325E-16
+   ts              ts               3.19422             248.802    
+   tsn             ts               3.10799             1.00000    
+   fc              fc               60.3000             25.1482    
+   fcdel           fcdel            1.00000             70.6679    
+   beta            beta             1.73797             39.0889    
+   klz             k0              5.011014E-02         102.680    
+   kuz2_d1         up_d             2.10310             14.6008    
+   kuz1_d0         up_d             3.53253             13.1439    
+   kuz_dl          up_d             1.94895             22.7790    
+   perc            perc             1.90067             15.1871    
+   uz1             trsh             18.9351             108.311    
+   uz2_d1          up_d             2.23343             20.8647    
+
+
+ OPTIMISATION ITERATION NO.  5 ----->
+ Parameter name    Group          Current value       Sensitivity
+   rcor            pcor            0.916705             1221.27    
+   scor            pcor            0.838692             249.860    
+   tx              tx               5.25513             403.161    
+   cx              cx               3.87057             158.279    
+   cxn_dcx         dwn_d            1.00000            3.723325E-16
+   ts              ts               3.19422             248.802    
+   tsn             ts               3.10799             1.00000    
+   fc              fc               60.3000             25.1482    
+   fcdel           fcdel            1.00000             70.6679    
+   beta            beta             1.73797             39.0889    
+   klz             k0              5.011014E-02         102.680    
+   kuz2_d1         up_d             2.10310             14.6008    
+   kuz1_d0         up_d             3.53253             13.1439    
+   kuz_dl          up_d             1.94895             22.7790    
+   perc            perc             1.90067             15.1871    
+   uz1             trsh             18.9351             108.311    
+   uz2_d1          up_d             2.23343             20.8647    
+
+
+ OPTIMISATION ITERATION NO.  6 ----->
+ Parameter name    Group          Current value       Sensitivity
+   rcor            pcor            0.907819             1208.41    
+   scor            pcor            0.838058             230.080    
+   tx              tx               5.11330             385.760    
+   cx              cx               3.99602             165.368    
+   cxn_dcx         dwn_d            1.00000            3.623920E-16
+   ts              ts               3.24983             245.790    
+   tsn             ts               3.16535             1.00000    
+   fc              fc               73.1484             24.7488    
+   fcdel           fcdel            1.00000             69.3069    
+   beta            beta             1.53631             42.4413    
+   klz             k0              6.906727E-02         103.124    
+   kuz2_d1         up_d             2.11750             14.2179    
+   kuz1_d0         up_d             3.66289             12.6876    
+   kuz_dl          up_d             1.29930             34.2057    
+   perc            perc             1.87938             14.5960    
+   uz1             trsh             18.8942             107.372    
+   uz2_d1          up_d             2.31728             20.2385    
+
+
+ OPTIMISATION ITERATION NO.  7 ----->
+ Parameter name    Group          Current value       Sensitivity
+   rcor            pcor            0.902985             1199.35    
+   scor            pcor            0.850139             229.369    
+   tx              tx               5.05241             377.783    
+   cx              cx               4.18580             153.966    
+   cxn_dcx         dwn_d            1.00000            3.615991E-16
+   ts              ts               3.37115             257.714    
+   tsn             ts               3.21748             1.00000    
+   fc              fc               69.1666             24.4672    
+   fcdel           fcdel            1.00000             68.1991    
+   beta            beta             1.50045             42.6560    
+   klz             k0              6.269649E-02         102.078    
+   kuz2_d1         up_d             2.10808             13.8359    
+   kuz1_d0         up_d             3.67967             12.5369    
+   kuz_dl          up_d             1.47899             29.8189    
+   perc            perc             1.77746             14.6564    
+   uz1             trsh             20.0245             111.739    
+   uz2_d1          up_d             2.23910             21.3793    
+
+
+ OPTIMISATION ITERATION NO.  8 ----->
+ Parameter name    Group          Current value       Sensitivity
+   rcor            pcor            0.902985             1199.35    
+   scor            pcor            0.850139             229.369    
+   tx              tx               5.05241             377.783    
+   cx              cx               4.18580             153.966    
+   cxn_dcx         dwn_d           0.666667             0.00000    
+   ts              ts               3.37115             257.714    
+   tsn             ts               3.21748             1.00000    
+   fc              fc               69.1666             24.4672    
+   fcdel           fcdel            1.00000             68.1991    
+   beta            beta             1.50045             42.6560    
+   klz             k0              6.269649E-02         102.078    
+   kuz2_d1         up_d             2.10808             13.8359    
+   kuz1_d0         up_d             3.67967             12.5369    
+   kuz_dl          up_d             1.47899             29.8189    
+   perc            perc             1.77746             14.6564    
+   uz1             trsh             20.0245             111.739    
+   uz2_d1          up_d             2.23910             21.3793    
+
+
+ OPTIMISATION ITERATION NO.  9 ----->
+ Parameter name    Group          Current value       Sensitivity
+   rcor            pcor            0.896080             1197.42    
+   scor            pcor            0.886929             229.992    
+   tx              tx               4.95944             371.398    
+   cx              cx               4.17758             171.569    
+   cxn_dcx         dwn_d           0.666667             0.00000    
+   ts              ts               3.39188             258.281    
+   tsn             ts               3.29436             1.00000    
+   fc              fc               65.1901             24.3980    
+   fcdel           fcdel            1.00000             67.7073    
+   beta            beta             1.50300             41.6171    
+   klz             k0              7.313977E-02         102.448    
+   kuz2_d1         up_d             2.13498             13.1426    
+   kuz1_d0         up_d             3.75956             12.1776    
+   kuz_dl          up_d             1.27854             34.4687    
+   perc            perc             1.89388             14.6146    
+   uz1             trsh             19.3007             111.579    
+   uz2_d1          up_d             2.30487             20.8046    
+
+
+ OPTIMISATION ITERATION NO. 10 ----->
+ Parameter name    Group          Current value       Sensitivity
+   rcor            pcor            0.893886             1199.44    
+   scor            pcor            0.902125             238.341    
+   tx              tx               4.95310             385.825    
+   cx              cx               4.11040             152.685    
+   cxn_dcx         dwn_d           0.666667             0.00000    
+   ts              ts               3.36693             252.633    
+   tsn             ts               3.29546             1.00000    
+   fc              fc               63.3510             24.3920    
+   fcdel           fcdel            1.00000             67.3985    
+   beta            beta             1.52557             41.3475    
+   klz             k0              6.771711E-02         101.561    
+   kuz2_d1         up_d             2.15009             12.9944    
+   kuz1_d0         up_d             3.71069             12.2764    
+   kuz_dl          up_d             1.40083             31.2502    
+   perc            perc             1.81185             14.5633    
+   uz1             trsh             19.9460             113.959    
+   uz2_d1          up_d             2.26087             21.6763    
+
+
+ OPTIMISATION ITERATION NO. 11 ----->
+ Parameter name    Group          Current value       Sensitivity
+   rcor            pcor            0.894787             1199.51    
+   scor            pcor            0.900243             227.819    
+   tx              tx               4.91615             408.631    
+   cx              cx               3.87130             178.437    
+   cxn_dcx         dwn_d           0.666667             0.00000    
+   ts              ts               3.34050             246.061    
+   tsn             ts               3.30320             1.00000    
+   fc              fc               63.4467             24.7829    
+   fcdel           fcdel            1.00000             67.6817    
+   beta            beta             1.59071             41.3691    
+   klz             k0              6.318995E-02         99.8750    
+   kuz2_d1         up_d             2.19323             12.7630    
+   kuz1_d0         up_d             3.62949             12.4006    
+   kuz_dl          up_d             1.54893             27.8325    
+   perc            perc             1.70167             14.4541    
+   uz1             trsh             20.6922             118.610    
+   uz2_d1          up_d             2.19653             23.3421    
+
+
+ OPTIMISATION ITERATION NO. 12 ----->
+ Parameter name    Group          Current value       Sensitivity
+   rcor            pcor            0.893800             1198.80    
+   scor            pcor            0.908566             230.288    
+   tx              tx               4.91967             395.813    
+   cx              cx               3.75664             179.047    
+   cxn_dcx         dwn_d           0.666667             0.00000    
+   ts              ts               3.27170             243.497    
+   tsn             ts               3.29337             1.00000    
+   fc              fc               63.1995             24.7950    
+   fcdel           fcdel            1.00000             67.9047    
+   beta            beta             1.59916             41.0061    
+   klz             k0              6.541438E-02         99.9292    
+   kuz2_d1         up_d             2.19033             12.7882    
+   kuz1_d0         up_d             3.62765             12.3974    
+   kuz_dl          up_d             1.50272             28.6869    
+   perc            perc             1.76469             14.4923    
+   uz1             trsh             20.0907             117.301    
+   uz2_d1          up_d             2.22587             22.7892    

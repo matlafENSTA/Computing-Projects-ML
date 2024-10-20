@@ -1,0 +1,19 @@
+PINEHBV SETUP FILE - VERSION5 : Tue Jul 23 14:08:47 2024
+
+Catchment and data files for CATCH_DELTA_IPSLRCA_HISTO_1971-2000_SETUP-forecast setup.
+
+====================================================
+FORMATTED FILE ! ---  DO NOT EDIT !!!!
+====================================================
+
+
+Catchment: catch_delta_ipslrca_histo_1971-2000
+                 D:\Klima\PINE\PineProj\catchmentexample\setups_hps_delta\catch_delta_ipslrca_histo_1971-2000_par.top
+                 D:\Klima\PINE\PineProj\catchmentexample\input_delta\catch_delta_ipslrca_histo_1971-2000.dat
+                 D:\Klima\PINE\PineProj\catchmentexample\output_delta\catch_delta_ipslrca_histo_1971-2000_out.dat
+                 D:\Klima\PINE\PineProj\catchmentexample\output_delta\catch_delta_ipslrca_histo_1971-2000_out.txt
+                 D:\Klima\PINE\PineProj\catchmentexample\output_delta\catch_delta_ipslrca_histo_1971-2000_end.top
+                 23.07.2024  14:08:47
+                 -
+                 -
+END

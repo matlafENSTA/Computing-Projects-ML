@@ -1,0 +1,16 @@
+[Pine Simulation analysis file]  : "D:\Klima\PINE\PineProj\Myglevatn\output_corr\mygle_corre_cnrmcclm_rcp45_2041-2070_out.inf" Wed Jul 24 15:27:57 2024
+
+
+R2      = -999999.00000000        [1SIMRUNOFF, 1OBSRUNOFF]
+ACCDIFF =        32691.46        [1SIMRUNOFF, 1OBSRUNOFF]
+MAE     =      3.08642921        [1SIMRUNOFF, 1OBSRUNOFF]
+MAAE    =      3.08642921        [1SIMRUNOFF, 1OBSRUNOFF]
+RWBE    =  -9999.99990000        [1SIMRUNOFF, 1OBSRUNOFF]
+RVBE    =      1.#INF0000        [1SIMRUNOFF, 1OBSRUNOFF]
+AVERAGE =      3.97298757        [1FLDPRECIP]
+AVERAGE =      0.89345211        [1FLDEVAPOT]
+AVERAGE =      3.08642921        [1SIMRUNOFF]
+AVERAGE =      0.00000000        [1OBSRUNOFF]
+CHANGE  =      0.94461860        [1WATERSTORED]
+CHANGE  =      0.00000000        [1FLDICEBAL]
+RMSE    =     10.60438275        [1SIMDSCHRG, 1INOBSVAR]

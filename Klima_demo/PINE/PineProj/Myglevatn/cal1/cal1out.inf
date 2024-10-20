@@ -1,0 +1,6 @@
+[Pine Simulation analysis file]  : "D:\Klima\PINE\PineProj\Myglevatn\cal1\cal1out.inf" Thu Jul 18 13:34:35 2024
+
+
+R2      =      0.90045106        [1SIMRUNOFF, 1OBSRUNOFF]
+ACCDIFF =          -66.14        [1SIMRUNOFF, 1OBSRUNOFF]
+CHANGE  =      0.00000000        [1FLDICEBAL]

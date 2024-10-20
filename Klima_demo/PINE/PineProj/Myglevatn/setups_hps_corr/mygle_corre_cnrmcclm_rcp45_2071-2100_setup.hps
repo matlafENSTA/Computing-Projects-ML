@@ -1,0 +1,19 @@
+PINEHBV SETUP FILE - VERSION5 : Mon Aug 12 15:48:04 2024
+
+Catchment and data files for MYGLE_CORRE_CNRMCCLM_RCP45_2071-2100_SETUP-forecast setup.
+
+====================================================
+FORMATTED FILE ! ---  DO NOT EDIT !!!!
+====================================================
+
+
+Catchment: mygle_corre_cnrmcclm_rcp45_2071-2100
+                 C:\Klima\PINE\PineProj\Myglevatn\setups_hps_corr\mygle_corre_cnrmcclm_rcp45_2071-2100_par.top
+                 C:\Klima\PINE\PineProj\Myglevatn\input_corr\mygle_corre_cnrmcclm_rcp45_2071-2100.dat
+                 C:\Klima\PINE\PineProj\Myglevatn\output_corr\mygle_corre_cnrmcclm_rcp45_2071-2100_out.dat
+                 C:\Klima\PINE\PineProj\Myglevatn\output_corr\mygle_corre_cnrmcclm_rcp45_2071-2100_out.txt
+                 C:\Klima\PINE\PineProj\Myglevatn\output_corr\mygle_corre_cnrmcclm_rcp45_2071-2100_end.top
+                 12.08.2024  15:48:04
+                 -
+                 -
+END

@@ -1,0 +1,16 @@
+[Pine Initialization file]  : "pineinit.set" Thu Jul 18 13:34:35 2024
+
+
+DEFTOPFILE:                     D:\Klima\PINE\PineProj\catchmentexample\cal1\cal1.top
+BININFILE:                      catchmentexample_obs.dat
+TXTOUTFILE:                     D:\Klima\PINE\PineProj\catchmentexample\cal1\cal1out.txt
+BINOUTFILE:                     D:\Klima\PINE\PineProj\catchmentexample\cal1\cal1out.dat
+IOCOUNT:                        1
+DEBUGLOG:                       0
+WORKDIR:                        D:\Klima\PINE\PineProj\catchmentexample\cal1
+METHDIR:                        D:\Klima\PINE\PineProj\catchmentexample\Meth
+STARTTIME:                      01.09.1999  00:00:00
+STOPTIME:                       31.08.2005  00:00:00
+OUTPUTFORMAT:                   1
+COLWID:                         9
+[end]

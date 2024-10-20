@@ -1,0 +1,14 @@
+$OutputStep
+100
+
+$PolynomialDegree
+3
+
+$Duration
+1.
+
+$Param
+2
+100 1. 1.5
+200 2. 1.
+// c rho

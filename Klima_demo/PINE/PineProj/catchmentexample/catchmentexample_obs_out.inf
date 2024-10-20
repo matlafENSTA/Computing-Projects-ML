@@ -1,0 +1,16 @@
+[Pine Simulation analysis file]  : "D:\Klima\PINE\PineProj\Myglevatn\Myglevatn_obs_out.inf" Thu Jul 18 13:27:56 2024
+
+
+R2      =      0.86107509        [1SIMRUNOFF, 1OBSRUNOFF]
+ACCDIFF =         1426.43        [1SIMRUNOFF, 1OBSRUNOFF]
+MAE     =      1.00527072        [1SIMRUNOFF, 1OBSRUNOFF]
+MAAE    =      0.16272354        [1SIMRUNOFF, 1OBSRUNOFF]
+RWBE    =      4.16456336        [1SIMRUNOFF, 1OBSRUNOFF]
+RVBE    =      4.16456336        [1SIMRUNOFF, 1OBSRUNOFF]
+AVERAGE =      4.85372622        [1FLDPRECIP]
+AVERAGE =      0.79095500        [1FLDEVAPOT]
+AVERAGE =      4.07006085        [1SIMRUNOFF]
+AVERAGE =      3.90733732        [1OBSRUNOFF]
+CHANGE  =     43.24018245        [1WATERSTORED]
+CHANGE  =      0.00000000        [1FLDICEBAL]
+RMSE    =      3.79960016        [1SIMDSCHRG, 1INOBSVAR]

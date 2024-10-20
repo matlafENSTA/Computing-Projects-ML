@@ -1,0 +1,16 @@
+[Pine Initialization file]  : "pineinit.set" Tue Jul 30 15:31:22 2024
+
+
+DEFTOPFILE:                     D:\Klima\PINE\PineProj\catchmentexample\setups_hps_delta\catch_delta_cnrmcclm_rcp45_2071-2100_par.to
+BININFILE:                      pinein.dat
+TXTOUTFILE:                     pineout.txt
+BINOUTFILE:                     pineout.dat
+IOCOUNT:                        1
+DEBUGLOG:                       0
+WORKDIR:                        D:\Klima\PINE\PineProj\catchmentexample\setups_hps_delta
+METHDIR:                        D:\Klima\PINE\PineProj\catchmentexample\meth
+STARTTIME:                      01.01.1900  00:00:00
+STOPTIME:                       01.01.1900  00:00:00
+OUTPUTFORMAT:                   2
+COLWID:                         15
+[end]

@@ -1,0 +1,19 @@
+PINEHBV SETUP FILE - VERSION5 : Mon Aug 12 15:48:04 2024
+
+Catchment and data files for MYGLE_DELTA_CNRMCCLM_HISTO_1971-2000_SETUP-forecast setup.
+
+====================================================
+FORMATTED FILE ! ---  DO NOT EDIT !!!!
+====================================================
+
+
+Catchment: mygle_delta_cnrmcclm_histo_1971-2000
+                 C:\Klima\PINE\PineProj\Myglevatn\setups_hps_delta\mygle_delta_cnrmcclm_histo_1971-2000_par.top
+                 C:\Klima\PINE\PineProj\Myglevatn\input_delta\mygle_delta_cnrmcclm_histo_1971-2000.dat
+                 C:\Klima\PINE\PineProj\Myglevatn\output_delta\mygle_delta_cnrmcclm_histo_1971-2000_out.dat
+                 C:\Klima\PINE\PineProj\Myglevatn\output_delta\mygle_delta_cnrmcclm_histo_1971-2000_out.txt
+                 C:\Klima\PINE\PineProj\Myglevatn\output_delta\mygle_delta_cnrmcclm_histo_1971-2000_end.top
+                 12.08.2024  15:48:04
+                 -
+                 -
+END

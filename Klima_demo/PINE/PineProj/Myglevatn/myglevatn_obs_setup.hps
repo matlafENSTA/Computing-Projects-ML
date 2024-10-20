@@ -1,0 +1,19 @@
+PINEHBV SETUP FILE - VERSION5 : Mon Aug 12 15:48:04 2024
+
+Catchment and data files for MYGLEVATN_OBS_SETUP-forecast setup.
+
+====================================================
+FORMATTED FILE ! ---  DO NOT EDIT !!!!
+====================================================
+
+
+Catchment: Myglevatn_obs
+                 C:\Klima\PINE\PineProj\Myglevatn\Myglevatn_obs_par.top
+                 C:\Klima\PINE\PineProj\Myglevatn\myglevatn_obs.dat
+                 C:\Klima\PINE\PineProj\Myglevatn\Myglevatn_obs_out.dat
+                 C:\Klima\PINE\PineProj\Myglevatn\Myglevatn_obs_out.txt
+                 C:\Klima\PINE\PineProj\Myglevatn\Myglevatn_obs_end.top
+                 12.08.2024  15:48:04
+                 -
+                 -
+END

@@ -1,0 +1,27 @@
+Information about the process can be found in the following files :
+- PINE_tutorial.pdf to calibrate the model for the studied catchment and learn how to use PINE
+- Klima folder structure.pdf to understand the purpose of every folder located in Klima
+- Klima programs execution.pdf to follow the PINE routine and have an overlook on the timeline of data processing
+
+If you find some times, there are still some improvements to implement in the scripts. Here is a non-exhaustive list :
+
+climate_models_RCP_sfVersion.R : 
+	- do not compute the historical values for every scenario maybe ? Would save a few hours.
+Plotting.R :
+	- warning issues (working but annoying and maybe data badly processed)
+csv_to_txt_Sildre_SeNorge.py : 
+	- the function extract_data_from_csv should sum the precipitation data day by day instead of computing the average! (it is not a problem
+	  as long as we download daily data and not hourly data for precipitation) so temperature, discharge and precipitation shouldnt be treated
+	  the same way.
+	- define an extreme value for every variable (and maybe two, min and max ?)
+	- side quest : check units, convert automatically it if not correct (maybe not worth the effort)
+pine_files_creation.py :
+	- handle the problem of warnings (the script tries to create too many setup files and thinks that there are missing data while there isn't).
+	- modify the date and hour of creation in update_setuphps()
+	- add further information in the recapfile created
+climate_models_RCP_to_BiasCorrect.py :
+	- implement a way to find the nearest geographical point without searching manually in Grid_nodesD.txt pointing the place on this map : 
+	  https://norgeskart.no/ (use cartesian norm for coordinates and find the minimal distance ?) : find_geopoint() python function.
+	- side quest : use identifiers for precip and temp instead of if/else
+
+if you have any question you can contact me at mlafit@hotmail.fr
