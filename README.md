@@ -38,7 +38,7 @@ Feel free to explore the projects below, and check out the descriptions to learn
 ## Contact
 
 If you have any questions, suggestions, or would like to collaborate on a project, feel free to contact me via email at *mathieu.lafitte@ensta-paris.fr*.
-You can also find me on LinkedIn: [Mathieu Lafitte](linkedin.com/in/mathieu-lafitte-188679247)
+You can also find me on LinkedIn: [Mathieu Lafitte](https://linkedin.com/in/mathieu-lafitte-188679247)
 
 ---------------------------------------
 
